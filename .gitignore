@@ -1,7 +1,9 @@
 # Node modules
 node_modules/
 
-/dist
+/dist/
+/build/
+
 # IDE files
 .vscode/
 .idea/
