@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Dependency directories
+/dist/
+/build/
+
+# IDE files
+.vscode/
+.idea/
+
+# Build artifacts
+.DS_Store
+
